@@ -3,7 +3,7 @@ kind: Route
 metadata:
   labels:
     app: ui
-    nezf: thecheese
+    vitoco: wena
   name: ui
 spec:
   host: ui-test-cd.apps-crc.testing
