@@ -5,6 +5,8 @@ metadata:
     app: ui
   name: ui
 spec:
+  host: ui-test-cd.apps-crc.testing
+  subdomain: ''
   port:
     targetPort: 8080-tcp
   to:
