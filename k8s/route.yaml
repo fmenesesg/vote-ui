@@ -13,3 +13,6 @@ spec:
     kind: Service
     name: ui
     weight: 100
+status:
+  ingress:
+    - host: ui-test-cd.apps-crc.testing
